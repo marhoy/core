@@ -1277,7 +1277,7 @@ pyfgt==0.5.1
 pyfido==2.1.1
 
 # homeassistant.components.flexit
-pyflexit==0.3
+pyflexit==1.0.0
 
 # homeassistant.components.flic
 pyflic-homeassistant==0.4.dev0
